@@ -6,7 +6,7 @@ This is a personal workaround for `yunmai.scales.ms104`, not a general scale or 
 
 ## Install and use
 
-Download the debug APK from [Releases](../../releases). Requires Android 14 or newer.
+Download the debug APK from [Releases](https://github.com/david-x3d/s400-bridge/releases). Requires Android 14 or newer.
 
 1. Choose the region used in Xiaomi Home. Taiwan is listed separately and uses the Singapore server.
 2. Sign in with a Xiaomi password, or use **Sign in with Google via Xiaomi** and finish on Xiaomi's page in your browser. QR approval through Xiaomi Home is also available.
